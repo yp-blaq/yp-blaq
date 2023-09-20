@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yp-blaq
 - 👀 I’m interested in programming and development.
-- 🌱 I’m currently learning web development, android development.
-- 💞️ I’m looking to collaborate on android development and python projects.
+- 🌱 I’m currently engaged in Full-Stack web development, Machine Learning and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Software developments, ML/AI developments and python projects.
 - 📫 How to reach me eje244@gmail.com
 
 <!---
